@@ -44,5 +44,4 @@ npx serve -s build
 
 This gives your team everything they need: **tools, installation, testing, troubleshooting, and workflow pointers**.  
 
-👉 Next, we can draft **`CONTRIBUTING.md`** so your teammates know the rules for branches, commits, and pull requests. Want me to prepare that now so you’ll have both setup and contribution docs ready?
-   
+
