@@ -2,7 +2,6 @@
 
 This document explains how to install and run the **Student Tracker** project locally, and what tools you’ll need.
 
----
 
 ## 📥 Prerequisites
 
@@ -16,7 +15,6 @@ Before starting, make sure you have these installed:
 - **React Developer Tools** (browser extension) → For debugging React components  
 - **Static Server (like `serve`)** → For testing production builds locally  
 
----
 
 ## 🚀 Installation Steps
 
@@ -40,8 +38,7 @@ NOTE: the website will open local host from your computer
 npx serve -s build
   ```
 
----
 
-This gives your team everything they need: **tools, installation, testing, troubleshooting, and workflow pointers**.  
+This gives you the setup to begin the process of the developemt, refer to the other documents for more information
 
 
