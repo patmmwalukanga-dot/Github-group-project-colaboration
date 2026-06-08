@@ -1,0 +1,6 @@
+#avatar-lightbox {
+  animation: fadeIn 0.2s ease-out;
+}
+#avatar-lightbox img {
+  transition: transform 0.2s ease;
+}
